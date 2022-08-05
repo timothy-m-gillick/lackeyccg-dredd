@@ -1,0 +1,5 @@
+Dredd	08-03-22
+plugins/Dredd/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-dredd/raw/main/plugininfo.txt	294222
+plugins/Dredd/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-dredd/raw/main/cardback.jpg	618482
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/17IbzevtyLlgDXhOq4vQ9xs6_rDhQ7cD5?usp=sharing
